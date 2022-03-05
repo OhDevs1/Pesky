@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x89cf2473c107E9af7242230c164153F85226394A",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x89cf2473c107E9af7242230c164153F85226394A",
+  "NETWORK": {
+    "NAME": "PeskyPandas",
+    "SYMBOL": "PeskyPandas",
+    "ID": 137
+  },
+  "NFT_NAME": "PeskyPandas",
+  "SYMBOL": "PeskyPandas",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/PeskyPandas",
+  "SHOW_BACKGROUND": true
+}
